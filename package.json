@@ -16,6 +16,10 @@
     "babel-plugin",
     "module.exports"
   ],
+  "files": [
+    "lib/*",
+    "README.md"
+  ],
   "author": "",
   "license": "MIT"
 }
